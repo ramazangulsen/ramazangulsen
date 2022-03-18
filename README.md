@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
-<h3 align="center">I am a computer engineering student. I am developing a mobile application.</h3>
+<h3 align="center">I am a computer engineering student. 
+I make applications with the features I learned.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
