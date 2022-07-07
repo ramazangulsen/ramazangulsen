@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
+![Github Stats] (https://github-readme-stats.vercel.app/api?username=ramazangulsen&theme=radical)
 <h3 align="center">I am a computer engineering student. 
 I make applications with the features I learned.</h3>
 
